@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deardiary/static/css/main.34dee295.css",
-    "main.js": "/deardiary/static/js/main.ba3588d7.js",
-    "static/js/787.37a53dde.chunk.js": "/deardiary/static/js/787.37a53dde.chunk.js",
-    "index.html": "/deardiary/index.html",
-    "main.34dee295.css.map": "/deardiary/static/css/main.34dee295.css.map",
-    "main.ba3588d7.js.map": "/deardiary/static/js/main.ba3588d7.js.map",
-    "787.37a53dde.chunk.js.map": "/deardiary/static/js/787.37a53dde.chunk.js.map"
+    "main.css": "/DearDiary/static/css/main.34dee295.css",
+    "main.js": "/DearDiary/static/js/main.e4e140e0.js",
+    "static/js/787.37a53dde.chunk.js": "/DearDiary/static/js/787.37a53dde.chunk.js",
+    "index.html": "/DearDiary/index.html",
+    "main.34dee295.css.map": "/DearDiary/static/css/main.34dee295.css.map",
+    "main.e4e140e0.js.map": "/DearDiary/static/js/main.e4e140e0.js.map",
+    "787.37a53dde.chunk.js.map": "/DearDiary/static/js/787.37a53dde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34dee295.css",
-    "static/js/main.ba3588d7.js"
+    "static/js/main.e4e140e0.js"
   ]
 }
